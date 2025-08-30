@@ -24,7 +24,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		E87D5C762E05734400A29FE3 /* riveAnimations */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = riveAnimations; sourceTree = "<group>"; };
+		58159BCF2E6326F7003DDAC3 /* riveAnimations */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = riveAnimations; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +74,7 @@
 		7555FF7D242A565900829871 /* iosApp */ = {
 			isa = PBXGroup;
 			children = (
-				E87D5C762E05734400A29FE3 /* riveAnimations */,
+				58159BCF2E6326F7003DDAC3 /* riveAnimations */,
 				058557BA273AAA24004C7B11 /* Assets.xcassets */,
 				7555FF82242A565900829871 /* ContentView.swift */,
 				7555FF8C242A565B00829871 /* Info.plist */,
@@ -109,7 +109,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				E87D5C762E05734400A29FE3 /* riveAnimations */,
+				58159BCF2E6326F7003DDAC3 /* riveAnimations */,
 			);
 			name = iosApp;
 			packageProductDependencies = (
